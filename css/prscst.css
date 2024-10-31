@@ -1,0 +1,39 @@
+/* 
+    Created on : Aug 2, 2021, 3:01:22 PM
+    Author     : pramodc <pramod@crawlcenter.com>
+*/
+
+.prs_sbx_hdn{
+    display: none;
+}
+.prs_sbx_sh{
+    display: flex;
+}
+.prs_rv_bd{
+    display: flex;
+}
+.prs_rv_dcl{
+    flex-direction: column;
+    display: flex;
+    flex:0 0 100%;
+}
+.prs_rv_dvr{
+    flex-direction: row;
+    display: flex;
+}
+.prs_rv_c33{
+    flex-basis: 33%;
+}
+.prs_rv_c100{
+    flex-basis: 100%;
+}
+.prs_rv_c50{
+    flex-basis: 50%;
+}
+.prs_rv_mtb1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.prs_rv_tx_fw{
+    width: 99%;
+}
